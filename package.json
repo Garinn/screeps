@@ -1,0 +1,21 @@
+{
+  "name": "screepsai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garinn/screeps.git"
+  },
+  "author": "Garinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garinn/screeps/issues"
+  },
+  "homepage": "https://github.com/Garinn/screeps#readme"
+}
