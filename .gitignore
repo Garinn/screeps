@@ -1,2 +1,5 @@
 _screeps.json
 node_modules
+.idea
+.vagrant
+npm-debug.log
